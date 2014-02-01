@@ -1,0 +1,5 @@
+color
+
+bright reddish pink FF0F4B
+bright green : 00DE29
+bright blue : 00AFFA
